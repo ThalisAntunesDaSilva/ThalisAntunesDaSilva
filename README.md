@@ -4,7 +4,7 @@
 
 ## Academic of Software Engineering at Universidade Federal do Pampa.
 
-I like back end, passionate about front end and interface design. Java my first and React my lover!
+Passionate about front end and interface design. Java my first and React my lover!
 
 🧠 I believe that there are no barriers for anyone, the word 'focus' is the basis of my achievements.
 
