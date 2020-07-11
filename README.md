@@ -1,16 +1,23 @@
-### Hi there 👋
+# Welcome to my system 👨🏻‍💻🇧🇷
 
-<!--
-**ThalisAntunesDaSilva/ThalisAntunesDaSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Badge](https://img.shields.io/static/v1?label=&message=Linkedin&color=blue&style=for-the-badge&logo=LINKEDIN&url=https://www.linkedin.com/in/thalis-antunes-da-silva-b2642b43/)
 
-Here are some ideas to get you started:
+## Academic of Software Engineering at Universidade Federal do Pampa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like back end, passionate about front end and interface design. Java my first and React my lover!
+
+🧠 I believe that there are no barriers for anyone, the word 'focus' is the basis of my achievements.
+
+ 😍 Eternal apprentice in technology and in life, evolution and teamwork make me stronger. With tranquility and focus we will hit goals!
+
+⚡ I try to specialize in web and mobile development.
+
+Talk to me:
+* [Linkedin](https://www.linkedin.com/in/thalis-antunes-da-silva-b2642b43/)
+
+* thalisantunes@hotmail.com
+
+
+
+
+
